@@ -1,0 +1,1 @@
+# vasy-erp-react-template
